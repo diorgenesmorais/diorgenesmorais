@@ -1,9 +1,9 @@
-## Oi, eu sou Diorgenes Morais 😄 (ele/dele)
+## Oi, eu sou Diorgenes Morais 😄
 
-Eu tenho experiência em desenvolvimento tanto no backend (Spring Boot e Node) como no frontend (Angular).
+Eu tenho experiência em desenvolvimento tanto no backend (Spring Boot e Node) como no frontend (Angular e React).
 Não me sinto intimidado por novas tecnologias e estou sempre aberto a novas formas de trabalhar. Me trás uma satisfação muito grande e me sinto realizado quando posso ajudar alguém, principalmente em uma dúvida técnica. Acredito que a comunicação é o primeiro passo para resolver problemas, me traz muita satisfação ver que podemos resolver problemas até mesmo com código.
 
-Tenho planos de seguir a carreira no papel técnico – torna-me especialista técnico, eu me sinto bem atuando como fullstack.
+Desejo evoluir no plano de carreira como especialista, também me sinto bem atuando como fullstack.
 
 Atuei em:
 - Entendimento das necessidades técnicas, refinamentos e
@@ -13,14 +13,16 @@ estimativas;
 - Squad com rituais ágeis
 - Handover e cutover
 - Treinamento de pares
+- Pair programming
 
 Hard skills:
 - Linguagem: Java, JavaScript
 - Frameworks: Node, Angular, Spring
+- Librarys: React
 - Banco Relacional: MySql, Postgres
 - Banco não relacional: MongoDB
 - Migração de banco de dados: Flyway
-- Teste unitário e TDD: Java e Javascript
+- Teste unitário e TDD: Java, Javascript e Typescript
 - Padrões de projetos
 - Conteinerização: Docker
 - Desenvolvimento frontend responsivo: Bootstrap, BEM, CCS3 e
@@ -38,7 +40,7 @@ Soft skills:
 - Empatia
 
 Atualmente:
-- 🔭 Estou trabalhando com Angular e Node (Spring num projeto particular)
+- 🔭 Estou trabalhando com Angular e Node (Spring e React num projeto particular)
 - 🌱 Estou aprendendo React
 
 <div align="center">
