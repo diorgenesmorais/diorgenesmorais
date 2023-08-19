@@ -1,8 +1,7 @@
 ## Oi, eu sou Diorgenes Morais 😄
 
-Eu tenho experiência em desenvolvimento tanto no backend (Spring Boot e Node) como no frontend (Angular e React).
-Não me sinto intimidado por novas tecnologias e estou sempre aberto a novas formas de trabalhar. Me trás uma satisfação muito grande e me sinto realizado quando posso ajudar alguém, principalmente em uma dúvida técnica. Acredito que a comunicação é o primeiro passo para resolver problemas, me traz muita satisfação ver que podemos resolver problemas até mesmo com código.
-
+Com experiência em desenvolvimento tanto no backend (Spring Boot e Node) como no frontend (Angular e React).
+Não me sinto intimidado por novas tecnologias e estou sempre aberto a novas formas de trabalhar. Tenho uma satisfação muito grande e me sinto realizado quando posso ajudar alguém em uma dúvida técnica. Acredito que a comunicação é o primeiro passo para resolver problemas, me traz muita satisfação ver que podemos resolver problemas até mesmo com código.
 Desejo evoluir no plano de carreira como especialista, também me sinto bem atuando como fullstack.
 
 Atuei em:
