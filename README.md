@@ -1,8 +1,6 @@
 ## Oi, eu sou Diorgenes Morais 😄
 
-Com experiência em desenvolvimento tanto no backend (Spring Boot e Node) como no frontend (Angular e React).
-Não me sinto intimidado por novas tecnologias e estou sempre aberto a novas formas de trabalhar. Tenho uma satisfação muito grande e me sinto realizado quando posso ajudar alguém em uma dúvida técnica. Acredito que a comunicação é o primeiro passo para resolver problemas, me traz muita satisfação ver que podemos resolver problemas até mesmo com código.
-Desejo evoluir no plano de carreira como especialista, também me sinto bem atuando como fullstack.
+Sou desenvolvedor fullstack, com experiência no backend com Spring Boot e Nodejs, e no frontend com Angular e React. Não me sinto intimidado por novas tecnologias e estou sempre aberto a novas formas de trabalhar. Tenho uma satisfação muito grande e me sinto realizado quando posso ajudar alguém em uma dúvida técnica. Acredito que a comunicação é o primeiro passo para resolver problemas, me traz muita satisfação ver que podemos resolver problemas até mesmo com código. Tenho um desejo de evoluir no plano de carreira como especialista técnico, a minha meta é ser arquiteto e não deixar de codar.
 
 Atuei em:
 - Entendimento das necessidades técnicas, refinamentos e
@@ -15,20 +13,19 @@ estimativas;
 - Pair programming
 
 Hard skills:
-- Linguagem: Java, JavaScript
-- Frameworks: Node, Angular, Spring
+- Linguagem: Java; JavaScript; Typescript; Python.
+- Frameworks: Nodejs; Angular; Spring Boot; Tailwindcss; Bootstrap...
 - Librarys: React
-- Banco Relacional: MySql, Postgres
+- Banco Relacional: MySql; Postgres.
 - Banco não relacional: MongoDB
-- Migração de banco de dados: Flyway
-- Teste unitário e TDD: Java, Javascript e Typescript
+- Migração de banco de dados: Flyway; Drizzle-kit.
+- Teste unitário e TDD em: Java, Javascript e Typescript
 - Padrões de projetos
 - Conteinerização: Docker
-- Desenvolvimento frontend responsivo: Bootstrap, BEM, CCS3 e
-mobile first
+- Desenvolvimento frontend responsivo: Bootstrap, BEM, CCS3, mobile first, Tailwindcss
 - Boas práticas e clean code
 - Git semântico e git flow
-- Cloud: AWS e Azure
+- Cloud: AWS; Google Cloud; Azure.
 
 Soft skills:
 - Resiliência
@@ -39,8 +36,8 @@ Soft skills:
 - Empatia
 
 Atualmente:
-- 🔭 Estou trabalhando com Angular e Node (Spring e React num projeto particular)
-- 🌱 Estou aprendendo React
+- 🔭 Estou trabalhando com integração com Gemini usando LangChain, RAG, nos serviços usando typescript e Next para criar o backend e o frontend com React.
+- 🌱 Estou aprendendo python
 
 <div align="center">
   <a href="https://github.com/diorgenesmorais">
